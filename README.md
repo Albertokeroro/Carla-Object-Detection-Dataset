@@ -29,3 +29,4 @@ Please have a look at my other repository to train your custom yolov7 on this CA
   * Changed train/val/test split
   * Changed folder structure
 * Added annotations in MS COCO format
+# Carla-Object-Detection-Dataset
